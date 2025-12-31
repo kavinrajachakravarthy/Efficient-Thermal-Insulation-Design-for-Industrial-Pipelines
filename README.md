@@ -1,4 +1,4 @@
-# Optimization of Insulation Thickness for Hot Industrial Pipelines
+# Efficient Thermal Insulation Design for Industrial Pipelines
 
 This project presents an Excel-based heat transfer and economic analysis to determine
 the economic insulation thickness for hot fluid pipelines.
