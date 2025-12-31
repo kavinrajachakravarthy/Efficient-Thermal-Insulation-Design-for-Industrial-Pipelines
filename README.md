@@ -28,10 +28,18 @@ To minimize total annual cost by optimizing insulation thickness considering:
 
 ## Repository Structure
 - `excel/` : Excel calculations with Solver optimization
-- `ppt/`   : Presentation slides
+-  Presentation slides
 
 ## References
-- Incropera et al., Fundamentals of Heat and Mass Transfer
-- Çengel & Ghajar, Heat and Mass Transfer
-- Perry’s Chemical Engineers’ Handbook
-- Bureau of Energy Efficiency (BEE), India
+- Incropera, F. P., DeWitt, D. P., Bergman, T. L., and Lavine, A. S.,
+Fundamentals of Heat and Mass Transfer, 7th Edition,
+John Wiley & Sons, 2011.
+- Çengel, Y. A., and Ghajar, A. J.,
+Heat and Mass Transfer: Fundamentals and Applications,
+McGraw-Hill Education, 5th Edition, 2015.
+- Holman, J. P.,
+Heat Transfer, 10th Edition,
+McGraw-Hill Education, 2010.
+- Perry, R. H., and Green, D. W.,
+Perry’s Chemical Engineers’ Handbook, 8th Edition,
+McGraw-Hill, 2008.
